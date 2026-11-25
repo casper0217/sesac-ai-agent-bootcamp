@@ -1,0 +1,9 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*chroma_db*/
+chroma_*/
+memory.db*
+*.mp3
+step1.png
+step2.png
